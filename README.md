@@ -17,7 +17,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).testset
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).tetsetset
 - [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).lucsas
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.emergency-fix
 
